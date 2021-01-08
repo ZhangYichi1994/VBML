@@ -1,4 +1,6 @@
 # VBML
+VBML = Variational Bayesian model with independent Laplace prior for complex network identification
+
 This is the source code of paper "Complex networks identification using Bayesian model with independent Laplace prior" please cite 
 
 @article{doi:10.1063/5.0031134,
